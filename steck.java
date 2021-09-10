@@ -116,7 +116,7 @@ public class steck {
 		myWord mysteck3 = new myWord(6);
 		IntSteck mystack;
 		
-		mystack = 
+		
 		for(int i = 0; i < 20; i++) {
 			mysteck1.push(i);
 		}

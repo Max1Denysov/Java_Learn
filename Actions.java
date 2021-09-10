@@ -15,7 +15,7 @@ class question implements SharedConstants{
 	int ask() {
 		int prob = (int) (100 * rand.nextDouble());
 		if(prob < 30)
-			return NO;
+			return NO ;
 		else if (prob < 60)
 			return YES;
 		else if (prob < 75)
